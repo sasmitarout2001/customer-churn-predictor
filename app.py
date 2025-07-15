@@ -19,7 +19,7 @@ with open('onehot_encoder_geo.pkl','rb') as file:
 with open('scaler.pkl','rb') as file:
     scaler=pickle.load(file)
 ## Streamlit app
-st.title('Customer chur Prediction')
+st.title('Customer Churn Prediction')
 
 ## User Input 
 geography=st.selectbox('Geography',onehot_encoder_geo.categories_[0])
