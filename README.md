@@ -14,5 +14,4 @@ The prediction is powered by a trained **Artificial Neural Network (ANN)** built
 
 ---
 
-## 🗂️ Project Structure
 
